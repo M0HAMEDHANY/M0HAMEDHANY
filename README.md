@@ -1,8 +1,3 @@
-![Header](https://github.com/mohameddhanyyy/mohameddhanyyy/assets/130695667/5567e5f9-e15c-4af9-b88e-7d2e8c2dbe0f)
-
-
-
-
 <h1 align="center">Hi, I'm Mohamed Hany</h1>
 <h3 align="center">frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hamedhany&label=Profile%20views&color=0e75b6&style=flat" alt="m0hamedhany" /> </p>

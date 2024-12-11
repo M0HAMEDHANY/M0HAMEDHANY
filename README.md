@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Hany</h1>
 <h3 align="center">frontend developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hamedhany&label=Profile%20views&color=0e75b6&style=flat" alt="m0hamedhany" /> </p>
+<p align="left"> ![212750996-938b257b-266c-45a7-9af7-655341c0f58b](https://github.com/user-attachments/assets/aec8319d-afbb-461c-9cfd-68b32d2c4692) </p>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <h3 align="left">Connect with me:</h3>
